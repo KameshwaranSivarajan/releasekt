@@ -1,3 +1,5 @@
+I had edited this file
+
 At the start, it could be overwhelming to explore a new product. We wanted to give you some head start to start with the basics and then slowly explore the features at your phase. 
 :::(Info)
 Here are the 5 basic things for you to get started. Please spend a few minutes making the most out of the Document360 trial. 
